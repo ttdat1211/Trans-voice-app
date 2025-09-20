@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Translator",
+  "description": "An AI tool that provides live recording and translation, then generates native-sounding speech for the translated text using Gemini and browser APIs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
